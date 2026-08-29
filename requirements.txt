@@ -1,4 +1,4 @@
-telethon==1.44.0
-cryptg==0.6.0
-pyrogram==2.0.106
-tgcrypto==1.2.7
+telethon
+cryptg
+pyrogram
+tgcrypto
