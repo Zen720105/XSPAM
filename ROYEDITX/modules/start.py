@@ -9,7 +9,7 @@ START_BUTTON = [
     ],
     [
         Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/bothub13"),
-        Button.url("GitHub", "https://github.com/tinaarobot/XSPAM")
+        Button.url("GitHub", "https://github.com/saurabhdhakad7869-cpu")
     ],
     [
         Button.inline("ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅs", data="help_back")
