@@ -18,13 +18,13 @@ RAILWAY_APP_NAME = getenv("RAILWAY_APP_NAME", None)
 BOT_TOKEN = getenv("BOT_TOKEN", default="8670466939:AAGkqOfWy6adbrUaGyU8wr7YhjO3zjNXZlw")
 
 
-SUDO_USERS = [6922271843]
-sudo_env = getenv("SUDO_USERS", default="6922271843").split()
+SUDO_USERS = [7812646657]
+sudo_env = getenv("SUDO_USERS", default="7812646657").split()
 for x in sudo_env:
     SUDO_USERS.append(int(x))
 for x in AVISHA:
     SUDO_USERS.append(x)
-OWNER_ID = int(getenv("OWNER_ID", default="6922271843"))
+OWNER_ID = int(getenv("OWNER_ID", default="7812646657"))
 SUDO_USERS.append(OWNER_ID)
 
 
